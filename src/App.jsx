@@ -16,6 +16,7 @@ function App() {
         <img src={cardInfo.image} alt="" />
         <h4>{cardInfo.firstName}</h4>
         <h5>{cardInfo.lastName}</h5>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae fuga nihil commodi magni culpa! Veritatis voluptatum dolorum rerum officia, quidem consequatur laboriosam ab temporibus tempore numquam nam fugiat corrupti facilis!</p>
       </div>
     </>
   )
